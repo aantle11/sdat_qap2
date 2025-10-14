@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b48637c-d1c5-4b09-b1b3-7bfd6aef0756" name="Changes" comment="Application properties updated" />
+    <list default="true" id="6b48637c-d1c5-4b09-b1b3-7bfd6aef0756" name="Changes" comment="Student &amp; Student repo classes completed">
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/StudentService.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +15,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "aantle11"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/aantle11/sdat_qap2.git",
+    "accountId": "10f59069-e74e-4dbf-a0d6-59ae14ba3845"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -89,11 +103,24 @@
       <workItem from="1760470478924" duration="1571000" />
       <workItem from="1760472132781" duration="16000" />
       <workItem from="1760472156207" duration="112000" />
-      <workItem from="1760472342941" duration="88000" />
+      <workItem from="1760472342941" duration="475000" />
     </task>
+    <task id="LOCAL-00001" summary="Student &amp; Student repo classes completed">
+      <option name="closed" value="true" />
+      <created>1760472573429</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1760472573429</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Student &amp; Student repo classes completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Student &amp; Student repo classes completed" />
   </component>
 </project>
