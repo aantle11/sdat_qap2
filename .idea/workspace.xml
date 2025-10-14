@@ -4,14 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b48637c-d1c5-4b09-b1b3-7bfd6aef0756" name="Changes" comment="student controller class complete">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/Student.java" afterDir="false" />
-    </list>
+    <list default="true" id="6b48637c-d1c5-4b09-b1b3-7bfd6aef0756" name="Changes" comment="this created without maven for some reason so added that back in &amp; updated the files to fix bugs and errors" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -116,7 +120,7 @@
       <workItem from="1760470478924" duration="1571000" />
       <workItem from="1760472132781" duration="16000" />
       <workItem from="1760472156207" duration="112000" />
-      <workItem from="1760472342941" duration="1712000" />
+      <workItem from="1760472342941" duration="2042000" />
     </task>
     <task id="LOCAL-00001" summary="Student &amp; Student repo classes completed">
       <option name="closed" value="true" />
@@ -142,7 +146,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760473128398</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="this created without maven for some reason so added that back in &amp; updated the files to fix bugs and errors">
+      <option name="closed" value="true" />
+      <created>1760474395188</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1760474395188</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +164,7 @@
     <MESSAGE value="Student &amp; Student repo classes completed" />
     <MESSAGE value="Student Service class complete, student controller class created" />
     <MESSAGE value="student controller class complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="student controller class complete" />
+    <MESSAGE value="this created without maven for some reason so added that back in &amp; updated the files to fix bugs and errors" />
+    <option name="LAST_COMMIT_MESSAGE" value="this created without maven for some reason so added that back in &amp; updated the files to fix bugs and errors" />
   </component>
 </project>
