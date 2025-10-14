@@ -1,20 +1,20 @@
-package com.demo.model.Student;
+package com.example.demo.service;
 
-import com.demo.model.Student;
-import com.demo.repository.StudentRepo;
-import org.springframework.seterotype.Service;
-
+import com.example.demo.model.Student;
+import com.example.demo.repository.StudentRepository;
+import org.springframework.stereotype.Service;
 import java.util.List;
 
 @Service
 public class StudentService {
+
     private final StudentRepository repository;
 
     public StudentService(StudentRepository repository) {
         this.repository = repository;
     }
 
-    public List<Student> getAllStudent() {
+    public List<Student> getAllStudents() {
         return repository.findAll();
     }
 
