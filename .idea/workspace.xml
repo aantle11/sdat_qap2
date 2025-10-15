@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b48637c-d1c5-4b09-b1b3-7bfd6aef0756" name="Changes" comment="moved studentcontroller into its own package">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/resources/application.properties" afterDir="false" />
-    </list>
+    <list default="true" id="6b48637c-d1c5-4b09-b1b3-7bfd6aef0756" name="Changes" comment="tested in postman" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,7 +94,7 @@
       <workItem from="1760472156207" duration="112000" />
       <workItem from="1760472342941" duration="4362000" />
       <workItem from="1760555414480" duration="12000" />
-      <workItem from="1760555689619" duration="696000" />
+      <workItem from="1760555689619" duration="835000" />
     </task>
     <task id="LOCAL-00001" summary="Student &amp; Student repo classes completed">
       <option name="closed" value="true" />
@@ -139,7 +136,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760474569732</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="tested in postman">
+      <option name="closed" value="true" />
+      <created>1760556444044</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1760556444044</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,6 +156,7 @@
     <MESSAGE value="student controller class complete" />
     <MESSAGE value="this created without maven for some reason so added that back in &amp; updated the files to fix bugs and errors" />
     <MESSAGE value="moved studentcontroller into its own package" />
-    <option name="LAST_COMMIT_MESSAGE" value="moved studentcontroller into its own package" />
+    <MESSAGE value="tested in postman" />
+    <option name="LAST_COMMIT_MESSAGE" value="tested in postman" />
   </component>
 </project>
